@@ -1,0 +1,21 @@
+category,description,amount,expense_date,vendor,recurring
+Rent,Office rent,3500,2026-08-04,Various,1
+Salaries,Monthly payroll,12000,2026-08-04,Various,1
+Software,SaaS subscriptions,800,2026-08-04,Various,1
+Utilities,Electric + internet,450,2026-08-04,Various,1
+Insurance,Business insurance,600,2026-08-04,Various,1
+Marketing,Ad campaign,1200,2026-08-22,Various,0
+Marketing,Social ads,900,2026-08-26,Various,0
+Office Supplies,Stationery,250,2026-08-28,Various,0
+Travel,Client visit,750,2026-08-14,Various,0
+Consulting,Legal consult,2000,2026-08-24,Various,0
+Equipment,Laptop purchase,1500,2026-07-05,Various,0
+Software,One-time license,120,2026-08-19,Various,0
+Utilities,Water bill,480,2026-09-03,Various,0
+Subscriptions,Newsletter tool,99,2026-08-30,Various,1
+Marketing,Trade show,600,2026-08-09,Various,0
+Office Supplies,Printer cartridges,300,2026-08-16,Various,0
+Travel,Client lunch,420,2026-08-20,Various,0
+Consulting,Tax prep,1500,2026-08-29,Various,0
+Equipment,Monitor + desk,2200,2026-06-25,Various,0
+Insurance,Quarterly premium,600,2026-06-05,Various,1

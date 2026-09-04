@@ -1,0 +1,31 @@
+date,description,category,amount,type,account,balance_after,source
+2026-08-19,Invoice payment INV-1001,revenue,8000.0,income,main,,sample
+2026-08-21,Client milestone payment,revenue,12000.0,income,main,,sample
+2026-08-24,Invoice INV-1002 partial,revenue,15000.0,income,main,,sample
+2026-08-09,Retainer,revenue,10000.0,income,main,,sample
+2026-08-26,Project payment,revenue,9000.0,income,main,,sample
+2026-08-29,Invoice INV-1003,revenue,7000.0,income,main,,sample
+2026-08-14,Contract work,revenue,6000.0,income,main,,sample
+2026-08-04,Quarterly maintenance,revenue,13000.0,income,main,,sample
+2026-09-02,Expense - Rent,Rent,-3500.0,expense,main,,sample
+2026-09-02,Expense - Utilities,Utilities,-450.0,expense,main,,sample
+2026-09-01,Expense - Marketing,Marketing,-1200.0,expense,main,,sample
+2026-08-31,Expense - Software,Software,-800.0,expense,main,,sample
+2026-08-30,Expense - Insurance,Insurance,-600.0,expense,main,,sample
+2026-08-25,Expense - Consulting,Consulting,-2000.0,expense,main,,sample
+2026-08-22,Expense - Equipment,Equipment,-1500.0,expense,main,,sample
+2026-08-18,Expense - Office Supplies,Office Supplies,-250.0,expense,main,,sample
+2026-08-13,Expense - Travel,Travel,-750.0,expense,main,,sample
+2026-08-07,Expense - Travel,Travel,-420.0,expense,main,,sample
+2026-08-01,Expense - Subscriptions,Subscriptions,-990.0,expense,main,,sample
+2026-07-26,Expense - Utilities,Utilities,-480.0,expense,main,,sample
+2026-09-03,Operating income 0,revenue,5000.0,income,main,,sample
+2026-08-27,Operating cost 1,misc,-325.0,expense,main,,sample
+2026-08-20,Operating cost 2,misc,-350.0,expense,main,,sample
+2026-08-13,Operating income 3,revenue,5300.0,income,main,,sample
+2026-08-06,Operating cost 4,misc,-400.0,expense,main,,sample
+2026-07-30,Operating cost 5,misc,-425.0,expense,main,,sample
+2026-07-23,Operating income 6,revenue,5600.0,income,main,,sample
+2026-08-30,Operating cost 7,misc,-475.0,expense,main,,sample
+2026-08-23,Operating cost 8,misc,-500.0,expense,main,,sample
+2026-08-16,Operating income 9,revenue,5900.0,income,main,,sample

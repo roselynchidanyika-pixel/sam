@@ -1,0 +1,2 @@
+from_address,subject,body,days_ago,classification
+bank@notifications.example.com,Low account balance alert,"Your cash balance has fallen below $5,000.",2,other

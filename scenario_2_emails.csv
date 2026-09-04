@@ -1,0 +1,3 @@
+from_address,subject,body,days_ago,classification
+finance@deltaltd.com,Invoice INV-1004 overdue 30 days,"Final notice invoice INV-1004 $16,000 overdue.",5,reminder
+accounts@betaindustries.com,INV-1012 payment delay,Unable to process payment for INV-1012 this month.,3,reminder

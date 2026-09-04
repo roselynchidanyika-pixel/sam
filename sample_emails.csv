@@ -1,0 +1,11 @@
+from_address,subject,body,days_ago,classification
+billing@acmecorp.com,Invoice INV-1001 payment received,"We have transferred $12,500 for invoice INV-1001.",14,payment
+ap@gamma-solutions.com,Re: Invoice INV-1003,"Attached is confirmation of payment of $8,400.",12,payment
+accounts@betaindustries.com,Invoice number INV-1002 due,"Please send the full statement for invoice INV-1002 amount $23,000.",9,invoice
+finance@deltaltd.com,Overdue invoice INV-1010,"We noticed invoice INV-1010 for $9,900 is now overdue. Reminder.",6,reminder
+ap@iotaholdings.com,Payment for INV-1012,"We have processed payment of $7,200.",5,payment
+payables@etaventures.co,Invoice INV-1009,"New invoice INV-1009 for $18,200 due within 30 days.",4,invoice
+accounts@kappaltd.com,Receipt for services,Please find receipt for $9900 payment.,3,payment
+vendor@supplies.com,Office supplies invoice,Invoice for $300 office supplies.,2,expense
+billing@epsilongroup.io,Payment due reminder,"Invoice INV-1014 for $9,100 is overdue, please pay.",1,reminder
+finance@thetasys.net,Payment received INV-1015,"We paid $5,400 for invoice INV-1015.",0,payment
